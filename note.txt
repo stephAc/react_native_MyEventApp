@@ -1,0 +1,42 @@
+cmd
+    - (create projetc) expo init AppName
+    - (launch project) npm start ou expo start
+
+npm install packages
+    - react-navigation
+    - react-navigation-stack
+    - react-navigation-tabs
+    - @react-navigation/native
+    - @react-navigation/stack
+    - react-native-vector-icons
+
+expo install packages
+    - react-native-reanimated
+    - react-native-gesture-handler
+    - react-native-screens
+    - react-native-safe-area-context
+    - @react-native-community/masked-view
+
+react native base components (Look documentation for component props)
+    - View
+    - Text
+    - TextInput
+    - Button
+    - Image
+    - ImageBackground
+    - Animated
+    - Animated.Image
+    - FlatList
+    - Linking (ouvrir une page web)
+
+React Native Formulaire :
+    - redux-form
+    - Formik
+    - React Hook Form
+    - TComb : npm install tcomb-form-native
+
+Redux install packages (npm)
+    - redux
+    - react-redux
+    - redux-persist
+    - @react-native-community/async-storage (pour mettre dans la config storage: AsyncStorage)
